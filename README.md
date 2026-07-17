@@ -15,6 +15,9 @@ A simple and responsive personal portfolio website built using **HTML** and **CS
 * HTML5
 * CSS3
 
+## How to View
+https://murugashan2005.github.io/portfolio-simple-website/
+
 ## Project Structure
 
 ```
